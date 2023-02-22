@@ -20,5 +20,5 @@
 ### Data Visualization
 ### Data Processing
 ### Model Building
-### Deployment
+### Deployment (Learning)
 
