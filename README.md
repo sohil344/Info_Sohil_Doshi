@@ -11,7 +11,7 @@
 
 ### Python
 ### SQL
-### AWS- SageMaker-EC2-Athena
+### AWS- SageMaker-EC2-Athena-S3 Bucket
 ### Machine Learning
 ### Predective Analysis
 ### Excel Advance- Automation Macro
